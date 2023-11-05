@@ -75,6 +75,7 @@ export const Otp = () => {
                 border: "none",
               },
             }}
+            autoFocus
             gap={0.5}
             length={6}
             value={value}

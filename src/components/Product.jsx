@@ -18,6 +18,7 @@ export const Product = () => {
           <img
             src="https://www.fastor.ai/_next/static/media/Logo.5a0cac78.png"
             alt=""
+            style={{opacity:"0.5"}}
           />
         </Box>
       </Box>
